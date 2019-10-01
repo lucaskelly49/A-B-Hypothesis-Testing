@@ -6,9 +6,9 @@ https://www.geeksengine.com/article/northwind.html
 
 In navigating the documents in this repository, please see the following main pages:
 
-(1) final_submission.ipynb - notebook containing all the code that created this project.
+(1) Student.ipynb - notebook containing all the code that created this project.
 
-(2) presentation.pdf - a non-technical presentation w/ notes.
+(2) Presentation_BusinessRecs_NorthwindTraders.pdf - a non-technical presentation w/ notes.
 
 (3) Blog post link: https://lucaskellydataportfolio.weebly.com/data-science-blog/ab-hypothesis-testing-on-the-northwind-traders-database
 
