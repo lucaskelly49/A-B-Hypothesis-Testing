@@ -1,6 +1,6 @@
 # A/B Hypothesis Testing 
 
-In this second portfolio piece, you will see how data and statistical analyses combine to inform business decisions. In the presentation documents, you will see 5 data-driven business recommendations produced from this analysis. This data comes from the popular Microsoft created sample database found here:
+In this second portfolio piece, you will see how data and statistical analyses combine to inform business decisions. In the presentation document, you will see 5 data-driven business recommendations produced from this analysis. This data comes from the popular Microsoft created sample database found here:
 
 https://www.geeksengine.com/article/northwind.html
 
