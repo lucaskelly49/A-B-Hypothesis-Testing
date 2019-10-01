@@ -6,7 +6,7 @@ https://www.geeksengine.com/article/northwind.html
 
 In navigating the documents in this repository, please see the following main pages:
 
-(1) student.ipynb - notebook containing all the code that created this project.
+(1) final_submission.ipynb - notebook containing all the code that created this project.
 
 (2) presentation.pdf - a non-technical presentation w/ notes.
 
