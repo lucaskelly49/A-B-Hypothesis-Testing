@@ -1,3 +1,21 @@
+# A/B Hypothesis Testing 
+
+In this second portfolio piece, you will see how data and statistical analyses combine to inform business decisions. In the presentation documents, you will see 5 data-driven business recommendations produced from this analysis. This data comes from the popular Microsoft created sample database found here:
+
+https://www.geeksengine.com/article/northwind.html
+
+In navigating the documents in this repository, please see the following main pages:
+
+(1) student.ipynb - notebook containing all the code that created this project.
+
+(2) presentation.pdf - a non-technical presentation w/ notes.
+
+(3) Blog post link: https://lucaskellydataportfolio.weebly.com/data-science-blog/ab-hypothesis-testing-on-the-northwind-traders-database
+
+Below, you will see the details and requirements of this project as created by the Flatiron School:
+
+___________________________________________________________________________________________________
+___________________________________________________________________________________________________
 
 # Module 2 Final Project Specifications
 
